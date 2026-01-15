@@ -35,5 +35,5 @@ The system is built using Object-Oriented Design, SOLID principles, and Strategy
 
 ## UML Diagram
 
-<img width="1251" height="770" alt="image" src="https://github.com/user-attachments/assets/26dbec35-01e2-4065-8543-26c4e5c14a18" />
+<img width="600" alt="UML Diagram" src="https://github.com/user-attachments/assets/26dbec35-01e2-4065-8543-26c4e5c14a18" />
 
