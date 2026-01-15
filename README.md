@@ -7,6 +7,16 @@ The system is built using Object-Oriented Design, SOLID principles, and Strategy
 
 ---
 
+## Design Principles Used
+
+- **Single Responsibility Principle**
+- **Open–Closed Principle**
+- **Dependency Inversion Principle**
+- **Polymorphism**
+- **Loose Coupling**
+
+---
+
 ## Features
 - Add text and image elements to a document
 - Render a complete document
